@@ -1,4 +1,4 @@
-# war-particles
+# War-particles
 
 Play here
 https://npetrell.itch.io/particle-war
